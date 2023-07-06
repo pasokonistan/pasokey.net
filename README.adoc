@@ -9,6 +9,11 @@ CAUTION: できるだけ短く簡潔になるようにしています．「登�
 https://pasokey.net[pasokey.net]（以下『当サーバー』とします）は，
 サークル『 https://pasokonistan.github.io[パソコニスタン] 』（以下，『管理者』とします）によって，趣味で運用・提供される https://github.com/misskey-dev/misskey[Misskey] サーバーです．
 
+== 運用に関する情報
+
+- メンテナンス情報など: https://github.com/pasokonistan/pasokey.net/issues[GitHub Issues]
+- status page: https://stats.uptimerobot.com/QLk7XC6Kxv/793928285[UptimeRobot]
+
 == おことわり
 - 当サーバーによるサービスは無償かつ *無保証* にて提供されます
 - 管理者は予告なく一時的なサービス停止を伴うメンテナンスを行うことがあります
