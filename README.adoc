@@ -11,8 +11,11 @@ https://pasokey.net[pasokey.net]（以下『当サーバー』とします）は
 
 == 運用に関する情報
 
-- メンテナンス情報など: https://github.com/pasokonistan/pasokey.net/issues[GitHub Issues]
-- status page: https://stats.uptimerobot.com/QLk7XC6Kxv/793928285[UptimeRobot]
+image::https://uptime.betterstack.com/status-badges/v1/monitor/rr6f.svg[Better Stack Badge,link=https://pasokonistan.betteruptime.com]
+image:https://img.shields.io/uptimerobot/status/m793928285-6c8a950ce0932507ca511b52[Uptime Robot status,link=https://stats.uptimerobot.com/QLk7XC6Kxv/793928285]
+
+- メンテナンス情報など: https://pasokonistan.betteruptime.com
+- 詳細な情報は https://github.com/pasokonistan/pasokey.net/issues[GitHub Issues] や https://pasokey.net/@sksat[管理人の投稿] を別途確認してください
 
 == おことわり
 - 当サーバーによるサービスは無償かつ *無保証* にて提供されます
